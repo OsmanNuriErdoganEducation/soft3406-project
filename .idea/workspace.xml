@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec7a3fa-704c-41b2-aea0-24e4d947f0f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcommander_1_78.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jquery_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/isTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/isTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/projectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/projectTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/isTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/isTriangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/project.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/isTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/isTriangleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/projectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/projectTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +47,21 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.projectTest">
+    <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trial" />
+      <module name="ProjectSOFT3406Team20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project" />
+      <module name="ProjectSOFT3406Team20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="isTriangleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectSOFT3406Team20" />
       <option name="PACKAGE_NAME" value="" />
@@ -61,8 +73,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isTriangleTest.test_isTriangle_4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSOFT3406Team20" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="isTriangleTest" />
+      <option name="METHOD_NAME" value="test_isTriangle_4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projectTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSOFT3406Team20" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="projectTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.projectTest" />
+        <item itemvalue="Application.Trial" />
+        <item itemvalue="Application.project" />
+        <item itemvalue="TestNG.isTriangleTest.test_isTriangle_4" />
         <item itemvalue="TestNG.isTriangleTest" />
       </list>
     </recent_temporary>
@@ -88,5 +127,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
