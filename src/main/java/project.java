@@ -51,4 +51,15 @@ public class project {
     return "Not a triangle";
   }
 
+  public void t(double a, double b, double c){
+    boolean x = ((a + b) > c); // 1 + 2 !> 4
+    boolean y = ((a + c) > b); // 1 + 4 > 2
+    boolean z = ((b + c) > a); // 2 + 4 > 1
+    if(a <= 0 || b <= 0 || c <= 0){
+      System.out.println("Not a triangle");
+    }
+    if(x & y & z){
+
+    }
+  }
 }

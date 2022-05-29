@@ -6,12 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fec7a3fa-704c-41b2-aea0-24e4d947f0f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/isTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trial.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/isTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/isTriangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/projectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/projectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/isTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/isTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/project.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Trial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Trial.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/projectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/projectTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +44,9 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.projectTest">
+  <component name="RunManager" selected="TestNG.TrialTest">
     <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Trial" />
       <module name="ProjectSOFT3406Team20" />
@@ -62,10 +61,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isTriangleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TrialTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectSOFT3406Team20" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="isTriangleTest" />
+      <option name="MAIN_CLASS_NAME" value="TrialTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -98,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TrialTest" />
         <item itemvalue="TestNG.projectTest" />
         <item itemvalue="Application.Trial" />
         <item itemvalue="Application.project" />
         <item itemvalue="TestNG.isTriangleTest.test_isTriangle_4" />
-        <item itemvalue="TestNG.isTriangleTest" />
       </list>
     </recent_temporary>
   </component>
